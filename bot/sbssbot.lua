@@ -241,7 +241,19 @@ function create_config( )
     "a",
     "che",
     "khobi",
-    "badword"
+    "badword",
+    "info",
+    "time",
+    "qr",
+    "onservice",
+    "map",
+    "linkpv",
+    "hackernews",
+    "hack1",
+    "hack",
+    "gps",
+    "google",
+    "azan"
     },
     sudo_users = {119707014},--Sudo users
     disabled_channels = {},
