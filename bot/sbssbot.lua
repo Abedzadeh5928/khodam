@@ -253,7 +253,10 @@ function create_config( )
     "hack",
     "gps",
     "google",
-    "azan"
+    "azan",
+    "textvoice",
+    "calc",
+    "ali"
     },
     sudo_users = {119707014},--Sudo users
     disabled_channels = {},
